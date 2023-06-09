@@ -118,7 +118,7 @@ const IndexPage = () => {
           image={'/banner3.png'}
           title={'We are Sustainable'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us!!!'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
@@ -130,7 +130,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by You'}
-          subtitle={'Tag @sydney to be featured.'}
+          subtitle={'Tag @bridgpal to be featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
